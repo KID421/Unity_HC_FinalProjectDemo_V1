@@ -7,3 +7,8 @@
 - KID 企劃
 
 # 網頁版
+https://kid421.github.io/Unity_HC_FinalProjectDemo_V1/Web
+
+# 其他執行版
+- EXE 壓縮為 ZIP 放在 Git Hub 內
+- APK
